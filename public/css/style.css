@@ -1,0 +1,64 @@
+.menupane
+{
+
+  background-color:#7bb1e8;
+  width: 220px;
+  position: absolute;
+  left:0;
+  min-height: 100%;
+  padding: 10px;
+  color: #fff;
+}
+
+.menupane a:link, .menupane a:visited
+{
+  color: #fff;
+}
+
+
+.app-container
+{
+  margin-left: 220px;
+}
+
+.app-body
+{
+  padding-top: 20px;
+}
+
+
+.gsearch
+{
+   min-height: 55px;
+   background-color: #efefef;
+   padding-top: 15px;
+   padding-bottom: 15px;
+
+}
+
+.bg-trans
+{
+  background-color: transparent;
+}
+
+.white
+{
+  color: #fff !important;
+}
+
+.noul
+{
+  list-style:none;
+  margin: 0;
+  padding: 0;
+
+}
+.ulist li
+{padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #6f7b6e;
+}
+
+.fixed-height
+{
+}
